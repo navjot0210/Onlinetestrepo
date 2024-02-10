@@ -1,4 +1,4 @@
-                                                                                   JavaScript (writer chatgpt)
+                                                                                   JavaScript (SOFTWARE DEVELOPER)
 
 JavaScript is a versatile and widely-used programming language that plays a vital role in web development. It is primarily known for its ability to add interactivity and dynamic features to websites. JavaScript provides the necessary tools and functionality to create engaging user interfaces, handle user input, and manipulate web page content in real-time.
 
